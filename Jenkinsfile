@@ -1,2 +1,2 @@
-@Library('sharedlibarary')
+@Library('sharedlibarary')_
 installnginx()
