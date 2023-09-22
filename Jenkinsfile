@@ -1,2 +1,2 @@
 @Library('sharedlibarary')
-installnginx
+installnginx()
